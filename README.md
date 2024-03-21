@@ -52,10 +52,7 @@ Github Page只读版：[https://lidangzzz.github.io/How-to-run/](https://lidangz
     1. 优势：顶级名校、正规Master、自带co-op实习，肉身在硅谷到处开车面试，门槛低，不需要Computer Science本科学位，转码国际学生刷题找工氛围浓厚；
     2. 缺点：贵（学费预算 $70000）
     3. 地址：[https://www.khoury.northeastern.edu/programs/align-masters-of-science-in-computer-science/](https://www.khoury.northeastern.edu/programs/align-masters-of-science-in-computer-science/)
-11. 讨论与求助：
-    1. Telegram（讨论）：[https://t.me/lidang](https://t.me/lidang) 
-    2. Discord（求助、答疑、资源共享等）：[https://discord.com/invite/kCdnP3w49E](https://discord.com/invite/kCdnP3w49E) 
-    3. 立党Twitter： [https://twitter.com/lidangzzz](https://twitter.com/lidangzzz)
+
 
 ---
 
